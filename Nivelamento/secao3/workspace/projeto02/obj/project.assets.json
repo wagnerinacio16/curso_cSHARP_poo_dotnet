@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wagne\\.nuget\\packages\\": {}
+    "C:\\Users\\Lydians\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wagne\\Documents\\Lydians\\curso_cSHARP_poo_dotnet\\Nivelamento\\workspace\\projeto01\\projeto01.csproj",
-      "projectName": "projeto01",
-      "projectPath": "C:\\Users\\wagne\\Documents\\Lydians\\curso_cSHARP_poo_dotnet\\Nivelamento\\workspace\\projeto01\\projeto01.csproj",
-      "packagesPath": "C:\\Users\\wagne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wagne\\Documents\\Lydians\\curso_cSHARP_poo_dotnet\\Nivelamento\\workspace\\projeto01\\obj\\",
+      "projectUniqueName": "C:\\Users\\Lydians\\Documents\\curso_cSHARP_poo_dotnet\\Nivelamento\\secao3\\workspace\\projeto02\\projeto02.csproj",
+      "projectName": "projeto02",
+      "projectPath": "C:\\Users\\Lydians\\Documents\\curso_cSHARP_poo_dotnet\\Nivelamento\\secao3\\workspace\\projeto02\\projeto02.csproj",
+      "packagesPath": "C:\\Users\\Lydians\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lydians\\Documents\\curso_cSHARP_poo_dotnet\\Nivelamento\\secao3\\workspace\\projeto02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wagne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lydians\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
