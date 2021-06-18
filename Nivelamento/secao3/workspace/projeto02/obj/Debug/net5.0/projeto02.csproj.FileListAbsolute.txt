@@ -1,0 +1,16 @@
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\bin\Debug\net5.0\projeto02.exe
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\bin\Debug\net5.0\projeto02.deps.json
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\bin\Debug\net5.0\projeto02.runtimeconfig.json
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\bin\Debug\net5.0\projeto02.runtimeconfig.dev.json
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\bin\Debug\net5.0\projeto02.dll
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\bin\Debug\net5.0\ref\projeto02.dll
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\bin\Debug\net5.0\projeto02.pdb
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.csproj.AssemblyReference.cache
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.AssemblyInfoInputs.cache
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.AssemblyInfo.cs
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.csproj.CoreCompileInputs.cache
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.dll
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\ref\projeto02.dll
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.pdb
+C:\Users\Lydians\Documents\curso_cSHARP_poo_dotnet\Nivelamento\secao3\workspace\projeto02\obj\Debug\net5.0\projeto02.genruntimeconfig.cache
