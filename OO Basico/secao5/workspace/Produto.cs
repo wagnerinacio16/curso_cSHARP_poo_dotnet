@@ -6,6 +6,21 @@ namespace workspace{
         public double Preco;
         public int Quantidade;
 
+        //Construtor obriga inicializar as variáveis do objeto assim que instanciado
+
+        public Produto(){}
+        public Produto(string nome, double preco, int quantidade){
+            Nome = nome;
+            Preco= preco;
+            Quantidade = quantidade;
+        }
+         public Produto(string nome, double preco){
+            Nome = nome;
+            Preco= preco;
+           //Pode setar direto os valores (já inicia com esse valor)
+            Quantidade = 10;
+        }
+
         public double ValorTotalEstoque(){
             return Preco * Quantidade;
 
