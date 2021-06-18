@@ -1,0 +1,5 @@
+{
+    "editor.renderFinalNewline": false,
+    "html.format.preserveNewLines": false,
+    "omnisharp.enableEditorConfigSupport": false
+}
