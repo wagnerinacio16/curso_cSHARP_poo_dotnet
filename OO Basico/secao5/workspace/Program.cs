@@ -7,7 +7,7 @@ namespace workspace
         static void Main(string[] args)
         {
 
-             Console.WriteLine("Entre os dados do produto:");
+             /*Console.WriteLine("Entre os dados do produto:");
              Console.Write("Nome: ");
              string nome = Console.ReadLine();
              Console.Write("Preço: ");
@@ -40,6 +40,15 @@ namespace workspace
         
 
              System.Console.WriteLine(p);
+             */
+             Produto p = new Produto("TV", 1200.99, 30);
+
+              System.Console.WriteLine(p); 
+
+                p.Nome = "Televisor";
+                System.Console.WriteLine(p); 
+
+
         }
     }
 }

@@ -2,25 +2,46 @@ using System;
 using System.Globalization;
 namespace workspace{
     class Produto{
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+
+        //Quando houver um lógica implementar manualmente
+        private string _nome;
+        //Auto proprerties (pode mudar a visibilidade tb, basta colocar o private antes do get-set)
+        public double Preco { get; private set; }
+        public  int Quantidade{ get; set;}
 
         //Construtor obriga inicializar as variáveis do objeto assim que instanciado
 
         public Produto(){}
         public Produto(string nome, double preco, int quantidade){
-            Nome = nome;
+            _nome = nome;
             Preco= preco;
             Quantidade = quantidade;
         }
          public Produto(string nome, double preco){
-            Nome = nome;
+            _nome = nome;
             Preco= preco;
            //Pode setar direto os valores (já inicia com esse valor)
             Quantidade = 10;
         }
 
+        //#implementação de um properties definindo os métodos de get-set
+      //O valor do parametro é value
+        public string Nome{
+            get{return _nome;}
+            set{if(value != null && value.Length > 1){
+                _nome = value;
+                }
+            }
+        }
+        /*
+        public string GetNone(){
+            return _nome;
+        }
+
+        public void SetNome(string nome){
+            _nome = nome;
+        }
+        */
         public double ValorTotalEstoque(){
             return Preco * Quantidade;
 
@@ -36,7 +57,7 @@ namespace workspace{
 
        //Sobre-posição do método ToString da classe Object;
         public override string ToString(){
-            return Nome  
+            return _nome  
             + " - R$: " 
             + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + " - Quantidade: "
